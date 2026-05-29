@@ -30,7 +30,7 @@ For å kjøre scriptet trenger du en utvidelse som kan kjøre "userscripts". Vi 
 - **[Last ned Tampermonkey for Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlephedocbihglce)**
 
 ### Trinn 2: Installer dette overvåknings-scriptet
-1. Klikk på denne lenken for å installere: **[Installer Gratis Oppkjøringsvarsel (Ett-klikks installasjon)]((https://github.com/Shadkader/oppkj-ringsvarsel_oppkj-ringsvakt_gratis_vegvesen/blob/main/vegvesen-oppkjoring.user.js))**
+1. Klikk på denne lenken for å installere: **[Installer Gratis Oppkjøringsvarsel (Ett-klikks installasjon)](https://raw.githubusercontent.com/Shadkader/oppkj-ringsvarsel_oppkj-ringsvakt_gratis_vegvesen/main/vegvesen-oppkjoring.user.js)**
 2. Tampermonkey vil automatisk åpne en ny fane. Klikk på den grønne **Install** (eller *Installer*) knappen.
 
 ### Trinn 3: Klargjør gratis push-varsel på mobilen din (iOS / Android)
